@@ -1,0 +1,9 @@
+<html>  
+  
+<head>  
+    <title>HTML Redirect</title>  
+    <meta http-equiv="refresh"
+        content="0; url = https://www.epicgames.com/fortnite/en-US/home" />  
+</head>  
+  
+</html>
