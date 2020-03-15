@@ -1,0 +1,9 @@
+<html>  
+  
+<head>  
+    <title>HTML Redirect</title>  
+    <meta http-equiv="refresh"
+        content="0; url = https://pxt.azureedge.net/blob/64c6ccff8e3ee82c4224874e5cacc9d0d5c60132/static/mb/device/pins-0.png" />  
+</head>  
+  
+</html>
